@@ -1,0 +1,17 @@
+{
+  "name": "Africa Tech Studio",
+  "short_name": "ATS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/file_00000000fdf461f8bc4363b4365dcf70.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
+
