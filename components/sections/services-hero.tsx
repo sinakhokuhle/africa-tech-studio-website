@@ -13,7 +13,7 @@ export default function ServicesHero() {
           className="text-center max-w-3xl mx-auto"
         >
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Our Services
+            Our Core Services
           </h1>
           <p className="text-xl text-muted-foreground">
             Comprehensive digital solutions tailored for African businesses with transparent pricing and proven results.
