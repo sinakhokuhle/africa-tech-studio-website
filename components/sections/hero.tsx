@@ -45,9 +45,7 @@ export default function Hero() {
             transition={{ duration: 0.6 }}
             className="mb-6"
           >
-            <span className="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-4">
-               Welcome to Africa Teah studios
-            </span>
+    
           </motion.div>
 
           <motion.h1
