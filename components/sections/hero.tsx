@@ -95,7 +95,7 @@ export default function Hero() {
             className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto"
           >
             <div className="text-center">
-              <div className="text-3xl font-bold text-primary mb-2">50+</div>
+              <div className="text-3xl font-bold text-primary mb-2">2</div>
               <div className="text-muted-foreground">Projects Completed</div>
             </div>
             <div className="text-center">
@@ -110,7 +110,7 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
+      
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
