@@ -56,7 +56,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent"
           >
-            We Build Websites, Apps & AI Solutions for Modern Businesses
+            Growing Africa, One Business at time
           </motion.h1>
 
           <motion.p
@@ -65,8 +65,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto"
           >
-            Empowering African businesses with cutting-edge technology solutions. 
-            From stunning websites to intelligent automation, we bring your digital vision to life.
+            Transform your business with professional digital solution design for African entrepreneurs.From stunning websites to powerful mobile apps
           </motion.p>
 
           <motion.div
