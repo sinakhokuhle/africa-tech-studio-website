@@ -16,8 +16,7 @@ export default function ServicesHero() {
             Our Services
           </h1>
           <p className="text-xl text-muted-foreground">
-            Comprehensive technology solutions designed to accelerate your business growth 
-            and digital transformation journey.
+            Comprehensive digital solutions tailored for African businesses with transparent pricing and proven results.
           </p>
         </motion.div>
       </div>
