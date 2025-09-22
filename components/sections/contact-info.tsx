@@ -12,21 +12,21 @@ const contactInfo = [
     title: 'Email Us',
     content: 'hello@africatechstudio.com',
     description: 'Send us an email anytime',
-    href: 'mailto:hello@africatechstudio.com',
+    href: 'mailtoafricatechstudios.com',
   },
   {
     icon: Phone,
     title: 'Call Us',
     content: '+27 67 032 2668',
     description: 'Call Sinakokuhle directly',
-    href: 'tel:+27670322668',
+    href: 'tel:+27684506970',
   },
   {
     icon: MessageCircle,
     title: 'WhatsApp',
-    content: '+27 67 032 2668',
+    content: '+27684506970',
     description: 'Message us on WhatsApp',
-    href: 'https://wa.me/27670322668',
+    href: 'https://wa.me/27684506970',
   },
   {
     icon: MapPin,
@@ -110,7 +110,7 @@ export default function ContactInfo() {
         <Card>
           <CardContent className="p-0">
             <iframe
-              title="Africa Tech Studio Location"
+              title="Africa Tech Studios Location"
               className="w-full aspect-video rounded-lg"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
