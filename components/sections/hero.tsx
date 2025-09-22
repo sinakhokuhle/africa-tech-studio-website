@@ -65,7 +65,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto"
           >
-            Transform your business with professional digital solution design for African entrepreneurs.From stunning websites to powerful mobile apps
+            Transform your business with professional digital solution design for African entrepreneurs. From stunning websites to powerful mobile apps
           </motion.p>
 
           <motion.div
